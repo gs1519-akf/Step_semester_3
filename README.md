@@ -1,6 +1,6 @@
 # Step Semester 3 — Java OOP & Data Structures Lab
 
-Comprehensive repository containing practice problems and assignments across Week 1 to Week 8 for STEP Semester 3. Each session is organized into dedicated feature branches containing both `assignment/` and `practice_problem/` folders with 5 self-contained Java solutions each (10 solutions per session, 80 total).
+Comprehensive repository containing practice problems and assignments across Week 1 to Week 9 for STEP Semester 3. Each session is organized into dedicated feature branches containing both `assignment/` and `practice_problem/` folders with 5 self-contained Java solutions each (10 solutions per session, 90 total).
 
 ---
 
@@ -16,6 +16,7 @@ Comprehensive repository containing practice problems and assignments across Wee
 | **[`feature/session6`](../../tree/feature/session6)** | Inheritance (Multilevel & Hierarchical) & Polymorphism | StaffBatchEnrollment<br>StaffInheritanceTree<br>StaffBenefitLedger<br>StaffRosterReport<br>StaffAuditSystem | LibraryBatchEnrollment<br>MembershipInheritanceTree<br>StudentDiscountLedger<br>WeeklyCirculationReport<br>MembershipAuditSystem |
 | **[`feature/session7`](../../tree/feature/session7)** | Abstraction, Abstract Classes & Interfaces | MorningWakeUpCircuit<br>GalleryDescriptionCards<br>BackyardToolshedRoutine<br>DigitalClassroomSetup<br>SkylineDeliveryFleet | TalkingToyBox<br>WarehouseLabelPrinter<br>OrchestraWarmUpRoutine<br>SmartKitchenAssistant<br>PackageDropOffLog |
 | **[`feature/session8`](../../tree/feature/session8)** | End-to-End Object-Oriented System Design | HostelLaundryQueue<br>AssignmentSubmissionPortal<br>CampusPremiereTicketCounter<br>FitZoneMembershipDesk<br>CampusNoticeBroadcaster | VehicleRentalSystem<br>EmployeeLeaveRequestWorkflow<br>OnlineExaminationSystem<br>HotelBookingSystem<br>ShoppingPaymentProcessing |
+| **[`feature/session9`](../../tree/feature/session9)** | Data Structures: Binary Search, 2D Grid, Complement Pairs & Two Pointers | ProductCatalogLookup<br>FactoryFloorGridSummary<br>TransactionSumChecker<br>CustomerPointsPairFinder<br>MaxShippingContainerVolume | LibraryCatalogLookup<br>WarehouseGridSummary<br>PairWithTargetSum<br>PairWithTargetSumIndices<br>MaximizeAreaBetweenBoundaries |
 
 ---
 
@@ -23,7 +24,7 @@ Comprehensive repository containing practice problems and assignments across Wee
 
 1. Checkout the desired session branch:
    ```bash
-   git checkout feature/session1
+   git checkout feature/session9
    ```
 2. Navigate to either `assignment` or `practice_problem`:
    ```bash
